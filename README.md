@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jacobmartin
-- 👀 I’m interested in python and PHP programming language
-- 🌱 I’m currently learning diploma in computer engineering
+- 👀 I’m Expertize in React native and react (web development).
+- 🌱 I’m currently Working in Monitpro solution PVT LTD.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
