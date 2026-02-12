@@ -82,7 +82,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jacob-martin-computerengineeringtrichy/">
+  <a href="https://www.linkedin.com/in/jacobmartins/">
     <img src="https://img.shields.io/badge/LinkedIn-Jacob_Martin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://jacobmartin2004.github.io/portfolio/">
