@@ -52,7 +52,10 @@
 
 ## 📊 GitHub Analytics
 
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacobmartin2004&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jacobmartin2004&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartin2004&layout=compact&theme=radical&hide_border=true" />
