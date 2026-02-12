@@ -17,16 +17,7 @@ I am a passionate Frontend Architect specializing in building high-performance, 
 | **Backend & DB** | Node.js, Express, Firebase, MongoDB |
 | **Tools & DevOps** | Git, Docker, CI/CD, Webpack, Vite |
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacobmartin2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartin2004&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
 
 ### 🌟 Key Expertise
 
@@ -45,11 +36,16 @@ I'm always open to discussing:
 - **Mentoring junior developers**
 
 ---
-
+### Git stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacobmartin2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartin2004&layout=compact&langs_count=7&theme=radical" />
+</p>
+---
 ### 📫 Reach Out to Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/jacob-martin-computerengineeringtrichy]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jacob-martin-computerengineeringtrichy/))
+- **Portfolio:** [portfolio.com](https://jacobmartin2004.github.io/portfolio/)](https://jacobmartin2004.github.io/portfolio/)
+- **Email:** [your.email@example.com](mailto:sjacobmartin@gmail.com)
 
 ---
 
