@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Jacob Martin 
+# 👋 Hi, I'm Jacob Martin  
 
-### 🚀 Senior Software Engineer | React & React Native Specialist
+### 🚀 Senior Software Engineer | React & React Native Specialist  
 **Currently building solutions at Monitpro Solution PVT LTD**
 
 I am a passionate Frontend Architect specializing in building high-performance, scalable web and mobile applications. With deep expertise in the React ecosystem, I bridge the gap between complex backend logic and elegant user experiences.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -17,41 +17,45 @@ I am a passionate Frontend Architect specializing in building high-performance, 
 | **Backend & DB** | Node.js, Express, Firebase, MongoDB |
 | **Tools & DevOps** | Git, Docker, CI/CD, Webpack, Vite |
 
+---
 
+## 🌟 Key Expertise
 
-### 🌟 Key Expertise
-
-* **Performance Optimization:** Experts in React profiling, memoization, and reducing bundle sizes.
-* **Cross-Platform Mastery:** Seamlessly sharing logic between Web (React) and Mobile (React Native).
-* **State Management:** Architecting robust global states using Redux, Zustand, or Query.
-* **Scalable UI:** Building reusable component libraries and Design Systems.
+- **Performance Optimization:** Expert in React profiling, memoization, and reducing bundle sizes.  
+- **Cross-Platform Mastery:** Seamlessly sharing logic between Web (React) and React Native.  
+- **State Management:** Architecting robust global states using Redux, Zustand, and React Query.  
+- **Scalable UI:** Building reusable component libraries and design systems.  
 
 ---
 
-### 💞️ I’m Looking to Collaborate On...
-I'm always open to discussing:
-- **Open Source React/React Native Plugins**
-- **Architecture Reviews**
-- **Performance Benchmarking Projects**
-- **Mentoring junior developers**
+## 💞️ I’m Looking to Collaborate On...
 
----
-### Git stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacobmartin2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartin2004&layout=compact&langs_count=7&theme=radical" />
-</p>
----
-### 📫 Reach Out to Me
-- **LinkedIn:** [linkedin.com/in/jacob-martin-computerengineeringtrichy]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jacob-martin-computerengineeringtrichy/))
-- **Portfolio:** [portfolio.com](https://jacobmartin2004.github.io/portfolio/)](https://jacobmartin2004.github.io/portfolio/)
-- **Email:** [your.email@example.com](mailto:sjacobmartin@gmail.com)
+- Open Source React / React Native Plugins  
+- Architecture Reviews  
+- Performance Benchmarking Projects  
+- Mentoring Junior Developers  
 
 ---
 
-### ⚡ Fun Fact
-When I'm not debugging re-renders or optimizing hooks, I'm likely exploring the latest trends in the JS ecosystem. Also, mark your calendars for **March 4th**—it's my birthday! 🎂
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacobmartin2004&label=Profile%20views&color=0e75b6&style=flat" alt="jacobmartin2004" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacobmartin2004&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartin2004&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+## 📫 Reach Out to Me
+
+- **LinkedIn:** https://www.linkedin.com/in/jacob-martin-computerengineeringtrichy/  
+- **Portfolio:** https://jacobmartin2004.github.io/portfolio/  
+- **Email:** sjacobmartin@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not debugging re-renders or optimizing hooks, I'm exploring the latest trends in the JavaScript ecosystem.
+
+🎂 OCTOBER 3 — It's my birthday!
