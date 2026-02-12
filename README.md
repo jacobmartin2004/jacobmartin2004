@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Senior Software Engineer | React & React Native Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&lines=Frontend+Architect;React+%26+React+Native+Expert;Performance+Optimization+Specialist;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&lines=Frontend+Architect;React+%26+React+Native+Expert;Performance+Optimization;Open+Source+Contributor" />
 </p>
 
 <p align="center">
