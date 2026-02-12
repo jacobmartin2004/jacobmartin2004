@@ -19,7 +19,7 @@
 - 📱 Cross-platform architect (Web + Mobile)
 - 🚀 Performance optimization specialist
 - 🎯 Focused on clean architecture & reusable systems
-- 🎂 March 4th — My Birthday!
+
 
 ---
 
